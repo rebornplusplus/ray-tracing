@@ -1,7 +1,7 @@
 # Open Object World with Ray Tracing
 
 Dive into a 3D-space containing multiple objects of various shapes and color, with a fully controllable camera. Explore
-and take pictures. Ray Tracing is used for proper lighting and reflection.
+and take pictures. Phong Lighting Model and Ray Tracing are used for proper lighting and reflection.
 
 ![Fig: Picture taken from a sample scene](./out/output6.bmp)
 
